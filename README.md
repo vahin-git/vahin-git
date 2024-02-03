@@ -12,8 +12,13 @@
 
 <h2>👨‍💻 Vulnerability assessment:</h2>
 
-- <b>security operations and assurance</b>
+- <b>Security operations and assurance</b>
   - [Report](https://github.com/vahin-git/SOA-report/tree/main)
+ 
+<h2>👨‍💻 Research work:</h2>
+
+- <b>Access Control for Securing Big Data</b>
+  - [Report](https://github.com/vahin-git/Access-Control-for-Securing-Big-Data)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
