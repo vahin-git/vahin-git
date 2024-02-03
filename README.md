@@ -10,15 +10,7 @@
 - <b>COVID-19 - Clinical Data to assess diagnosis</b>
   - [Jupyter Notebook](https://github.com/vahin-git/machine-learning-project/blob/main/ML_Group_10_Group_Project_Master.ipynb)
 
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/Vahin54101118
-[instagram]: https://www.instagram.com/vahin_sankar/
-[linkedin]: https://www.linkedin.com/in/vahinsankar007/
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
