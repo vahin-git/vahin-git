@@ -10,7 +10,10 @@
 - <b>COVID-19 - Clinical Data to assess diagnosis</b>
   - [Jupyter Notebook](https://github.com/vahin-git/machine-learning-project/blob/main/ML_Group_10_Group_Project_Master.ipynb)
 
+<h2>👨‍💻 Vulnerability assessment:</h2>
 
+- <b>security operations and assurance</b>
+  - [Report](https://github.com/vahin-git/SOA-report/tree/main)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
