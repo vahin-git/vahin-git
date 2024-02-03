@@ -8,7 +8,7 @@
 <h2>👨‍💻 Machine Learning Project:</h2>
 
 - <b>COVID-19 - Clinical Data to assess diagnosis</b>
-  - [Jupyter Notebook](https://github.com/vahin-git/machine-learning-project/blob/main/ML_Group_10_Group_Project_Master.ipynb)
+  - [Jupyter Notebook](https://github.com/vahin-git/machine-learning-project/tree/main)
 
 <h2>👨‍💻 Vulnerability assessment:</h2>
 
