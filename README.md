@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vahin Valliyur Sankar! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/vahinsankar007/">Cybersecurity Professional</a>, 
+<h1>Hi, I'm Vahin Valliyur Sankar! <br/>Programmer</a>, <a href="https://www.linkedin.com/in/vahinsankar007/">Cybersecurity Professional, and Technical Lead of CyberAlert</a>
 
 <h2>👨‍💻 Web automation Project:</h2>
 
